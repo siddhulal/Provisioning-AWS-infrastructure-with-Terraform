@@ -1,0 +1,1 @@
+This is the initial page of terraform tutorial 
